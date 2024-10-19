@@ -1,0 +1,7 @@
+.profileCards{
+    display: flex;
+    justify-content: space-evenly;
+    width: 80%;
+    flex-wrap: wrap;
+    margin: auto;
+  }
