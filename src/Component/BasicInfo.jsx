@@ -3,7 +3,7 @@ const BasicInfo =(props)=>{
         <div className="basicInfoStyle">
             <div className="nameDiv">
                 <img src={props.image} alt="" />
-                <p> <span>{props.name}</span></p>
+                <p> <strong>{props.name}</strong></p>
             </div>
             <div className="basicDetails">
                 
